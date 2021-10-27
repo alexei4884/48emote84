@@ -21,6 +21,8 @@ Also, you can open onscreen keyboard.
 - [ ] **Bedrock Addon**
 - [ ] Stylized **Minecraft Vanilla Emoji**
 
+[Discord Emoji you can download from this link. AUTHOR NOT ME](https://www.curseforge.com/minecraft/texture-packs/andros-discord-emojis)
+
 ## Road map
 
 - [ ] **More emoji.** *Unfortunately, I have added only a part of all and I plan to add all.*
