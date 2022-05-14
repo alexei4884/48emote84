@@ -17,7 +17,7 @@ Also, you can open onscreen keyboard.
 - [ ] **Apple** emoji
 - [ ] **Google** emoji
 - [ ] **Microsoft** emoji
-- [ ] *Twitch* emoji *(AND BTTV EMOJI)*
+- [ ] *Twitch* emotes *(AND BTTV EMOTES)*
 - [ ] **Bedrock Addon**
 - [ ] Stylized **Minecraft Vanilla Emoji**
 
